@@ -117,7 +117,7 @@ resellbd-frontend/
 
 ---
 
-Github Link: https://github.com/rafiferdos/trendora
+Github Link: https://github.com/Humayun1318/trendora
 
 Live Link: https://trendora-black.vercel.app/
 
