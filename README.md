@@ -56,7 +56,7 @@ resellbd-frontend/
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/rafiferdos/trendora.git
+   git clone https://github.com/Humayun1318/trendora.git
    ```
 2. **Navigate to the project directory**
    ```sh
@@ -122,3 +122,11 @@ Github Link: https://github.com/Humayun1318/trendora
 Live Link: https://trendora-black.vercel.app/
 
 ---
+## 📬 Contact
+
+**Project Maintainer:** Humayun Kabir          
+📧 Email: humayunkabir6267@gmail.com  
+🐙 GitHub: [@Humayun1318](https://github.com/Humayun1318)
+
+Thank you for exploring our **Trendora** secondhand market place — contributions, feedback, and ideas are always welcome! 🚀
+
